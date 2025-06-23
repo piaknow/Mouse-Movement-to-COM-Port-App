@@ -1,0 +1,30 @@
+C:\Users\Li\source\repos\SerialCOM\bin\Release\SerialCOM.exe.config
+C:\Users\Li\source\repos\SerialCOM\bin\Release\SerialCOM.exe
+C:\Users\Li\source\repos\SerialCOM\bin\Release\SerialCOM.pdb
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.csproj.AssemblyReference.cache
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.Form1.resources
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.Properties.Resources.resources
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.csproj.GenerateResource.cache
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.csproj.CoreCompileInputs.cache
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.exe
+C:\Users\Li\source\repos\SerialCOM\obj\Release\SerialCOM.pdb
+D:\source\repos\SerialCOM\bin\Release\SerialCOM.exe.config
+D:\source\repos\SerialCOM\bin\Release\SerialCOM.exe
+D:\source\repos\SerialCOM\bin\Release\SerialCOM.pdb
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.csproj.AssemblyReference.cache
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.Form1.resources
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.Properties.Resources.resources
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.csproj.GenerateResource.cache
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.csproj.CoreCompileInputs.cache
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.exe
+D:\source\repos\SerialCOM\obj\Release\SerialCOM.pdb
+D:\source\repos\Serial COM Mouse Latency Tester\bin\Release\SerialCOM.exe.config
+D:\source\repos\Serial COM Mouse Latency Tester\bin\Release\SerialCOM.exe
+D:\source\repos\Serial COM Mouse Latency Tester\bin\Release\SerialCOM.pdb
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.csproj.AssemblyReference.cache
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.Form1.resources
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.Properties.Resources.resources
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.csproj.GenerateResource.cache
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.csproj.CoreCompileInputs.cache
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.exe
+D:\source\repos\Serial COM Mouse Latency Tester\obj\Release\SerialCOM.pdb
